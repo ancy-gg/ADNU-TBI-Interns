@@ -47,7 +47,9 @@ Note: Due to the unavailability of some materials, items 6, 8, and 12 are not he
 
 ## Getting Started
 1. Clone this repository: (use Command Terminal or Shell)
+   '''bash
    git clone https://github.com/ancy-gg/ADNU-TBI-Interns.git
+   '''
 3. Open any project .ino file in the Arduino IDE.
 4. Connect your MCU Trainer to your computer.
 5. Upload the code and test each module!
