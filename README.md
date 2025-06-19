@@ -9,23 +9,16 @@ Welcome to our repository of Arduino-based microcontroller activities, created b
 Each activity is coded in Arduino and demonstrates a specific function or interface using the MCU Trainer board.
 
 1. ✅ Simple Display / LCD  
-2. ✅ Real-Time Clock (RTC)  
-3. ✅ 7-Segment Display  
-4. ✅ LED Indicator  
-5. ✅ 8x8 Dot Matrix Display  
-6. ❌ 8x32 Dot Matrix Display  
-7. ✅ DC Motor Control  
-8. ❌ 4x3 Keypad  
-9. ✅ Push Button  
-10. ✅ Rotary Encoder  
-11. ✅ DAC with LCD  
-12. ❌ Analog Voltage Monitor  
-13. ✅ Temperature Sensor  
-14. ✅ Stepper Motor (ROB-14450 + DG01D)  
-15. ✅ Relay Control  
-
-Note: Due to the unavailability of some materials, items 6, 8, and 12 are not here.
----
+2. ✅ 7-Segment Display  
+3. ✅ LED Indicator  
+4. ✅ 8x8 Dot Matrix Display  
+5. ✅ DC Motor Control  
+6. ✅ Push Button  
+7. ✅ Rotary Encoder  
+8. ✅ LCD with IIC (ADC)  
+9. ✅ Temperature Sensor  
+10. ✅ Stepper Motor  
+11. ✅ Relay Control  
 
 ## Requirements
 
