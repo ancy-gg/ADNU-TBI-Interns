@@ -1,13 +1,11 @@
 int relayControl = 7;  
 int statusLed = 12;    
 
-
 void setup() {
   pinMode(relayControl, OUTPUT);
   pinMode(statusLed, OUTPUT);  
   digitalWrite(statusLed, HIGH);  
 }
-
 
 void loop() {
   digitalWrite(relayControl, HIGH);  
